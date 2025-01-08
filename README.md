@@ -1,4 +1,5 @@
 # demo-project
 This is my First Git repository
 <br>
-Author- Ashish Mamkar
+Author- Ashish Mankar
+Next Author - King
